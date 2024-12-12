@@ -35,7 +35,7 @@ Smart-Transportation
 ## 📋 Prerequisites
 To set up and run the project, ensure you have the following installed:
 - 🐳 Docker
-- 🐍 Python 3.11 or higher
+- 🐍 Python 3.11 or higher (Only this version is tested and compatible. Consider downgrading or upgrading to this version for smooth execution.)
 - 🛢️ AWS Redshift (or equivalent database access)
 
 ## ⚙️ Installation
