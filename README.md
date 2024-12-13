@@ -84,7 +84,7 @@ To set up and run the project, ensure you have the following installed:
 
 ### 7. 🐳 Start the Docker Containers
    ```bash
-   docker-compose up
+   docker compose up -d
    ```
 
 ## 🚀 Usage
